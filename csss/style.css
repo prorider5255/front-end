@@ -1,0 +1,369 @@
+/* body {
+  color: purple;
+}
+
+p {color:green;}
+
+.heading {color: red}
+
+#block-text {color: yellow}
+
+h1.heading {color: black}
+
+div#block-text .heading {
+  color: orange
+
+  p, h1, h3 {
+    color: red;
+  }
+} */
+
+/* p.txt em + b {color: orange}
+.bold {font-weight: bold}
+
+p.txt.bold {color: blue}
+
+ul > li {color: red}
+
+[target="_self"] {font-weight: bold} */
+
+/* -------------------------для текста--------------------- */
+
+ /* p {
+  color: #ff9595;
+  font-weight: bolder;
+  font-style: italic;
+  font-size: 19px;
+  font-family: sans-serif;
+  cursor: crosshair;
+  background: yellow;
+  letter-spacing: 2px;
+  line-height: 200%;
+  text-align: center;
+  text-decoration: line-through;
+  text-decoration-color: green;
+  text-transform: capitalize;
+  text-indent: 40px;
+  word-spacing: 5px;
+   word-wrap: normal;
+  word-break:
+
+}  */
+
+/* body {height: 2000px;} */
+/* #block {
+  width: 70%;
+  height: 100px;
+  background-color: #ff9595;
+  border: 8px double green;
+  border-width: 8px;!
+  border-style: double;!
+  border-color: green;!
+  border-bottom: 8px double red;
+  border-top-color: purple;
+  border-radius: 20px 20px 140px 140px;
+  border-top-left-radius: 50px;!
+  border-bottom-right-radius:50px;!
+  opacity: 1;
+  margin: 20px;
+  margin-top:250; !
+  padding: 10px;
+  padding-bottom: 100px;
+
+} */
+
+
+/* .block {
+  overflow: scroll; !
+  overflow-x: auto;
+  overflow-y: scroll;
+  max-width: 200px;
+  display: inline-block;
+
+} */
+
+/* textarea {
+  width: 200px;
+  max-width: 200px;
+  max-height: 100px;
+  opacity: 0;
+} */
+
+/* #image-full-pages{
+  width: 100%;
+  height: 400px;
+  background-color: #333;
+  margin-top: 50px;
+  background-image: url("../img/love.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background: url("../img/love.jpg") center fixed;
+  background-blend-mode: multiply;
+  background-color: purple;
+} */
+
+
+/* * {
+  margin: 0;
+  padding: 0;
+} */
+
+/* body {height: 2000px} */
+
+/* .block {
+  width: 200px;
+  height: 200px;
+  background-color: orange;
+  margin-bottom: 20px;
+} */
+/* #first {float: left;}
+#second {float: right;} */
+
+/* #first {
+  width: 400px;
+  height: 270px;
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  margin: 20px;
+  position: relative;
+} */
+
+/* #first img{
+  width: 300px;
+  float: right;
+  margin-left: 5px;
+  margin-right: 5px;
+  position: absolute;
+  top: -30px; !
+  left: 50px; !
+  bottom: 40px;
+  right: -50px;
+} */
+
+/* #first p {
+  clear: none;
+} */
+
+/* #second {
+  border: 3px solid silver;
+  position: sticky;
+  top: 200px; !
+  top: 50px;
+  left: 50px;
+  right: auto;!
+  bottom: auto;!
+} */
+
+
+/* ul {
+  list-style: none;
+}
+
+ul li {
+  display: inline-block;
+  background-color: #fcfcfc;
+   margin-right: 10px;
+   padding: 10px;
+   border-radius: 5px;
+   border: 1px solid silver;
+   cursor: pointer;
+}
+
+ul li:hover {
+  background-color: #333;
+  color: #fff;
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(232,37,115,1);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(232,37,115,1);
+  box-shadow: 10px 10px 5px 0px rgba(232,37,115,1);
+
+} */
+/* * {
+  margin: 5px;
+  padding: 0px;
+}
+
+.block {
+  width: 200px;
+  height: 200px;
+
+}
+
+#first {
+  background-color: silver;
+  z-index: 1;
+  position: relative;
+}
+
+#second {
+  background-color: red;
+  position: relative;
+  top: -100px;
+  left: 60px;
+  z-index: 0;
+}
+
+#third {
+  background-color: blue;
+  position: relative;
+  top: -250px;
+} */
+
+
+/* p {
+  color: red;
+}
+
+p > span {
+  color: initial;
+}
+
+
+.block {
+  background: #eee;
+  padding: 10px;
+}
+
+.block > p {
+  background: #ccc;
+  padding: inherit;
+  margin: unset;
+}
+
+p, .block > p {all: unset} */
+
+
+/* @font-face {
+  font-family: Roboto;
+  src:url(../fonts/Roboto-LightItalic.ttf);
+}
+
+p.txt {
+  font-family: Roboto, sans-serif;
+} */
+
+
+/* @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+p.txt {
+  font-family: Dancing, sans-serif;
+} */
+
+/* body {
+  background: #efefef;
+}
+
+@media(max-width: 320px) {
+  body {
+    background: red;
+  }
+}
+
+@media(min-width: 700px) and (max-width: 1000px) {
+  body {
+    background: #000;
+  }
+} */
+
+/* #block {
+  float: left;
+  margin-left: 600px;
+  margin-top: 30px;
+  width: 200px;
+  height: 200px;
+  background: blue;
+  animation-name: coollAnimation;
+  animation-duration: 1s;
+  animation-delay: 1s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+@keyframes coollAnimation {
+  0% {border-radius: 0px}
+  5% {border-radius: 10px}
+  10% {border-radius: 20px}
+  15% {border-radius: 30px}
+  20% {border-radius: 40px}
+  25% {border-radius: 50px}
+  30% {border-radius: 60px}
+  35% {border-radius: 70px}
+  40% {border-radius: 80px}
+  45% {border-radius: 90px}
+  50% {border-radius: 100px}
+  55% {border-radius: 90px}
+  60% {border-radius: 80px}
+  65% {border-radius: 70px}
+  70% {border-radius: 60px}
+  75% {border-radius: 50px}
+  80% {border-radius: 40px}
+  85% {border-radius: 30px}
+  90% {border-radius: 20px}
+  95% {border-radius: 10px}
+  100% {border-radius: 0px}
+}
+
+@keyframes blocks {
+  from {background: blue}
+  to {background: red}
+} */
+
+/* .container {
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+flex-direction: column;
+align-items: center;
+} */
+
+/* .container > div {
+  padding: 10px;
+  border: 1px solid silver;
+  margin-bottom: 10px;
+  flex-basis: 30%;
+} */
+
+/* .box-1{
+  flex-basis: 100px;
+  flex: 1;
+  order: 2;
+  align-self: flex-end;
+
+} */
+
+/* .box-2{
+  flex-basis: 500px;
+  flex: 2;
+  order: 3;
+  margin-right: 20px;
+  align-self: flex-start;
+} */
+
+/* .box-3{
+  flex: 3;
+  order: 1;
+} */
+
+/* .bg {
+  border: 1px silver solid;
+}
+
+.txt {
+  width: 50px;
+  background: #478953;
+}
+
+.block-image {
+  width: 200px;
+} */
+
+/* .blue {
+  background: blue;
+} */
+
+/* .main-form {
+  margin: 20px;
+  width: 500px;
+} */
